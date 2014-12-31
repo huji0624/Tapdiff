@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>email</key>
+	<string>邮箱</string>
+	<key>art</key>
+	<string>美术</string>
+	<key>program</key>
+	<string>程序</string>
+	<key>gamedesign</key>
+	<string>游戏设计</string>
+	<key>appname</key>
+	<string>拍不同</string>
+	<key>best</key>
+	<string>最佳</string>
+	<key>score</key>
+	<string>得分</string>
+	<key>gameover</key>
+	<string>游戏结束</string>
+	<key>ready</key>
+	<string>准备</string>
+	<key>go</key>
+	<string>开始</string>
+</dict>
+</plist>
